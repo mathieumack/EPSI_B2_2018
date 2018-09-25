@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice_4", "Exercice_4.csproj", "{A759985B-BFB0-4BAB-9303-39D714B024FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice_4", "Exercice_4\Exercice_4.csproj", "{A759985B-BFB0-4BAB-9303-39D714B024FA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercice", "Exercice", "{C6A75371-2E6B-4875-8DE8-FAAAB6877582}"
 EndProject
@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pour aller plus loin (1)", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pour aller plus loin (2)", "Pour aller plus loin (2)", "{7F79DAC4-AB8A-4D5A-953A-AF170001162A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice_4_1", "..\Exercice_4_1\Exercice_4_1.csproj", "{44FE4BEA-99F3-4A50-9FAB-A088BAC7C9AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice_4_1", "Exercice_4_1\Exercice_4_1.csproj", "{44FE4BEA-99F3-4A50-9FAB-A088BAC7C9AD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice_4_2", "Exercice_4_2\Exercice_4_2.csproj", "{F8B91EEA-7F43-4C29-BEDA-D628DEA79046}"
 EndProject
