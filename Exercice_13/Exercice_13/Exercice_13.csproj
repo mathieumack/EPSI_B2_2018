@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F444D2E5-8975-4122-B959-898644C36C3C}</ProjectGuid>
+    <ProjectGuid>{89C3676C-F084-4697-8710-8C327E1088D8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Exercice_11</RootNamespace>
-    <AssemblyName>Exercice_11</AssemblyName>
+    <RootNamespace>Exercice_13</RootNamespace>
+    <AssemblyName>Exercice_13</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,15 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Actions\AjouterAnimal.cs" />
-    <Compile Include="Actions\LancerCourse.cs" />
-    <Compile Include="Actions\ListerAnimaux.cs" />
-    <Compile Include="Animal.cs" />
-    <Compile Include="AnimalType.cs" />
-    <Compile Include="Actions\IAction.cs" />
-    <Compile Include="IBonus.cs" />
-    <Compile Include="Menagerie.cs" />
-    <Compile Include="MenagerieAction.cs" />
+    <Compile Include="Cesar.cs" />
+    <Compile Include="ChiffrementCesar.cs" />
+    <Compile Include="ChiffrementManager.cs" />
+    <Compile Include="DechifremmentCesar.cs" />
+    <Compile Include="ICesar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

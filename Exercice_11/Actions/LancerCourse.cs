@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Exercice_11.Bonus;
+using System;
 using System.Collections.Generic;
 
 namespace Exercice_11.Actions
@@ -11,15 +12,15 @@ namespace Exercice_11.Actions
         {
             bonux = new List<IBonus>();
             bonux.Add(new PoussinDerriereDindon());
-            bonux.Add(new ...());
+            //bonux.Add(new ...());
         }
 
         public void Execute(Menagerie menagerie)
         {
-            foreach(IBonus bonus in bonux)
-            {
+            //foreach(IBonus bonus in bonux)
+            //{
 
-            }
+            //}
         }
     }
 }
